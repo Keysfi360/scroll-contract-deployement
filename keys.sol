@@ -3,8 +3,8 @@
 pragma solidity ^0.8.0;
 
 contract KeysfiMeme {
-    string public name = "Keysfi Token";
-    string public symbol = "KEYS";
+    string public name = "Zeus Coin";
+    string public symbol = "ZEUS";
     uint8 public decimals = 18;
     uint256 public totalSupply = 100000 * (10 ** uint256(decimals));
     address public owner;
